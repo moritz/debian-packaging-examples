@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+# an example debian/control file that shows how to
+# add a build stage, here "dist-zilla":
+%:
+	dh $@ --with dist-zilla
+
