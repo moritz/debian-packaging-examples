@@ -1,0 +1,5 @@
+hello-debian (0.1) stretch; urgency=medium
+
+  * Initial release.
+
+ -- Moritz Lenz <moritz@nodebook-mlenz>  Fri, 28 Dec 2018 12:07:26 +0100
