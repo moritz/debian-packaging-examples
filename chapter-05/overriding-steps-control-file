@@ -1,0 +1,13 @@
+#!/usr/bin/make -f
+
+# an example debian/rules file that shows how to override individual
+# steps of a debian build
+
+%:
+	dh $@
+
+override_dh_md5sums:
+
+override_dh_installchangelog:
+	dh_installchangelogs --exclude=NEWS
+
