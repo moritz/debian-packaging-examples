@@ -1,0 +1,5 @@
+Source: hello-debian
+Maintainer: Moritz Lenz <moritz.lenz@gmail.com>
+
+Package: hello-debian
+Architecture: all
