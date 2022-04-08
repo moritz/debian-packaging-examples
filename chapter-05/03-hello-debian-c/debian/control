@@ -1,0 +1,6 @@
+Source: hello-debian
+Build-Depends: gcc
+Maintainer: Moritz Lenz <moritz.lenz@gmail.com>
+
+Package: hello-debian
+Architecture: any
